@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="mandiri_news">Mandiri News</string>
+    <string name="mandiri_logo">Mandiri Logo</string>
+    <string name="berita_terkini">Berita Terkini</string>
+    <string name="semua_berita">Semua Berita</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed enim sit amet orci ultrices tempor eget id nisi. Vestibulum porttitor imperdiet gravida.</string>
+    <string name="image_news">Image News</string>
+    <string name="icon_person">Icon Person</string>
+    <string name="author">Author</string>
+    <string name="icon_calendar">Icon Calendar</string>
+    <string name="_31_jan_2023">31 Jan 2023</string>
+</resources>
